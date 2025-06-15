@@ -12,7 +12,6 @@ Demo of taking a picture of a food dish:
 https://drive.google.com/file/d/137ZONrwQ90dX4xp2YaJRP0pelaqKwM0q/view?usp=sharing
 
 
-
 Demo of scanning a barcode of a packaged food item:
 
 https://drive.google.com/file/d/1P8Qr9hviFX_dzV5T9t_1XwwmXXeT5KcX/view?usp=sharing
